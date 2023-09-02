@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou Victor Ribeiro Acosta
+- 👀 Sou apaixonado por tecnologia, atualmente estou em transição de carreira para área de dados (Análise/ciência de dados)
+- 🌱 Sou estudante de programação, atualmente estou tirando a certificação Google Data Analytics.
+- Também faço parte da comunidade DIO
